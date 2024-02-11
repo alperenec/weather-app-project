@@ -1,2 +1,1 @@
-﻿Weather app project
-A clone project from GreatStack youtube channel
+﻿Weather app project- A clone project from GreatStack youtube channel
